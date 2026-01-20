@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JTetris",
+            "request": "launch",
+            "mainClass": "assignment.JTetris",
+            "projectName": "prog4"
+        },
+        {
+            "type": "java",
+            "name": "JTetrisKarma",
+            "request": "launch",
+            "mainClass": "assignment.JTetrisKarma",
+            "projectName": "prog4"
+        },
+        {
+            "type": "java",
+            "name": "JTetrisBrain",
+            "request": "launch",
+            "mainClass": "assignment.JTetrisBrain",
+            "projectName": "prog4",
+        },
+        {
+            "type": "java",
+            "name": "JTetrisBrainTrainer",
+            "request": "launch",
+            "mainClass": "assignment.JTetrisBrainTrainer",
+            "projectName": "prog4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
